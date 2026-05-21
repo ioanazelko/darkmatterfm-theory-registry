@@ -1,8 +1,10 @@
 # BSM Dark-Matter Theory Registry: Model Aspects
 
+Given this model, what parameters define it, what assumptions make it valid, what observables does it affect, what tools should be run, what constraints apply, and where could the agent make a scientifically dangerous mistake?
+
 This note lists the major aspects of a beyond-the-Standard-Model (BSM) dark-matter model that a structured theory registry should track. The goal is to make each model understandable, comparable, and connectable to observables, likelihoods, emulators, and scientific assumptions.
 
-The actual machine-readable schema can be defined separately after this conceptual structure is agreed upon.
+The actual machine-readable schema is defined separately.
 
 ---
 
